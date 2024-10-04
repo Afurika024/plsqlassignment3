@@ -11,7 +11,7 @@ This README provides step-by-step instructions for creating, connecting to, and 
 
 ## 1. Creating a New User with All Privileges
 
-The first step is to create a new user with administrative privileges. The following query creates the user C##no_plsqlauca and grants all necessary privileges:
+The first step is to create a new user with administrative privileges. The following query creates the user C##af_plsqlauca and grants all necessary privileges:
 
 ```sql
 CREATE USER C##af_plsqlauca IDENTIFIED BY auca;
